@@ -1,0 +1,11 @@
+name = "FastTensors"
+uuid = "7a4b8c9d-1e2f-4a5b-8c9d-0e1f2a3b4c5d"
+authors = ["Kerem Koç <a69@aq.si>"]
+version = "0.2.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+julia = "1.9"
